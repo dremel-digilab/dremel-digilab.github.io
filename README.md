@@ -1,1 +1,1 @@
-# docs.3pitech.com
+https://docs.3pitech.com
